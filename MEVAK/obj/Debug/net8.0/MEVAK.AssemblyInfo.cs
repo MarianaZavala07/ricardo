@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MEVAK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d93e8f7b8ed9461b1892a7a4d7af7d493337dc72")]
 [assembly: System.Reflection.AssemblyProductAttribute("MEVAK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MEVAK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
